@@ -1,1 +1,1 @@
-This is trunk
+This is trunk from SVN to git
